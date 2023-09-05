@@ -52,5 +52,3 @@ function finallResult() {
 }
 
 finallResult();
-
-let num = 2;
